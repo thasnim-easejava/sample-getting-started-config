@@ -1,6 +1,6 @@
 version: 1.0
 app:
-  java: 8
+  java: 21
   # build id to deploy
   # version: 1.0-SNAPSHOT-20230716015630
   # number of instances
