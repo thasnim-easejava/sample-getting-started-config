@@ -1,11 +1,11 @@
 version: 1.0
 app:
   java: 17
-  # build id to deploy
-  #  version: 1.0-SNAPSHOT-20230716015630
-  # number of instances
+  #  build id to deploy
+  # version: 1.0-SNAPSHOT-20230716015630
+  #  number of instances
   instances:
-    # q: consider availability zones? 
+    #q: consider availability zones? 
 
     # min number of instances. can be 0 for scale to 0. default to 1.
     min: 1
@@ -42,6 +42,6 @@ app:
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
   version: "43754eb2-ba1c-41c5-b5fb-9a3d2abc2874"
-# probes
+#  probes
 # dynamic scaling
 # scaling to 0
