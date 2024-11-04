@@ -1,1 +1,0 @@
-# sample-getting-started-config
