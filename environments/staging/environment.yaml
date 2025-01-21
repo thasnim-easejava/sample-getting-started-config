@@ -41,7 +41,7 @@ app:
   #  cloudwatch:   
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
-  version: "0b170613-f7d5-422d-b509-468a746d46fd"
+  version: "e9d5c208-da5e-4bb1-bdc2-448677740341"
 #  probes
 # dynamic scaling
 # scaling to 0
