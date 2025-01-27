@@ -4,6 +4,7 @@ app:
   #  build id to deploy
   #    version: 1.0-SNAPSHOT-20230716015630
   #  number of instances
+  endpoints: public
   instances:
     #q: consider availability zones? 
 
@@ -41,7 +42,7 @@ app:
   #  cloudwatch:   
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
-  version: "b3ddc3f9-7755-4a94-8aed-27cccaf0fb06"
+  version: "863f2835-4a5e-44c6-8e0c-7264cccbb4de"
 #  probes
 # dynamic scaling
 # scaling to 0
