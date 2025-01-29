@@ -28,7 +28,7 @@ app:
     - name: MY_ENV
       value: "1"
   # List of variables that can be referenced in server.xml
-  # Liberty encrypted values are supported
+  # Liberty encrypted values are   supported
   variables:
     - name: io_openliberty_sample_system_inMaintenance
       value: "false"
@@ -42,7 +42,7 @@ app:
   #  cloudwatch:   
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
-  version: "36b8e956-49f0-41a9-ba33-1e8dbfaa7729"
+  version: "ea8e0c46-a258-4eb3-8892-9ae6c475c780"
 #  probes
 # dynamic scaling
 # scaling to 0
