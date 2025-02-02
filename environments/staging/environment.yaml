@@ -1,6 +1,6 @@
 version: 1.0
 app:
-  java: 17
+  java: 8
   #  build id to deploy
   #    version: 1.0-SNAPSHOT-20230716015630
   #  number of instances
@@ -42,7 +42,7 @@ app:
   #  cloudwatch:   
   #    arn: arn:aws:logs:region:account-id:destination:destination_name
   #    logGroup: myLogGroup
-  version: "ad9bed9d-4d8f-4c21-ba0b-64eeb23e3c34"
+  version: "54940b61-8d54-41fc-8b64-0d44ad11730b"
 #  probes
 # dynamic scaling
 # scaling to 0
